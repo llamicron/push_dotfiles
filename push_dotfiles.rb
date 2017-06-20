@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 require "git"
 
 log = Dir.home + "/.push_dotfiles.log"
